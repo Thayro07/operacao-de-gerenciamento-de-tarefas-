@@ -1,33 +1,38 @@
 [
-    {
-      "id": 1,
-      "nome": "Comprar mantimentos",
-      "descricao": "Ir ao supermercado e comprar frutas, vegetais e leite"
-    },
-    {
-      "id": 2,
-      "nome": "Estudar programação",
-      "descricao": "Revisar conceitos de JavaScript e praticar algoritmos"
-    },
-    {
-      "id": 3,
-      "nome": "Limpar a casa",
-      "descricao": "Organizar os quartos e limpar a sala e a cozinha"
-    },
-    {
-        "id": 4,
-        "nome": "Fazer exercícios",
-        "descricao": "Praticar 30 minutos de caminhada ou corrida"
-      },
-      {
-        "id": 5,
-        "nome": "Ler um livro",
-        "descricao": "Ler pelo menos 20 páginas de um livro de interesse"
-      },
-      {
-        "id": 6,
-        "nome": "Planejar a semana",
-        "descricao": "Organizar as tarefas e compromissos para a próxima semana"
-      }
-  ]
-  
+  {
+    "id": 1,
+    "nome": "Comprar mantimentos",
+    "descricao": "Ir ao supermercado e comprar frutas, vegetais e leite"
+  },
+  {
+    "id": 2,
+    "nome": "Estudar programação",
+    "descricao": "Revisar conceitos de JavaScript e praticar algoritmos"
+  },
+  {
+    "id": 3,
+    "nome": "Limpar a casa",
+    "descricao": "Organizar os quartos e limpar a sala e a cozinha"
+  },
+  {
+    "id": 4,
+    "nome": "Fazer exercícios",
+    "descricao": "Praticar 30 minutos de caminhada ou corrida"
+  },
+  {
+    "id": 5,
+    "nome": "Ler um livro",
+    "descricao": "Ler pelo menos 20 páginas de um livro de interesse"
+  },
+  {
+    "id": 6,
+    "nome": "Planejar a semana",
+    "descricao": "Organizar as tarefas e compromissos para a próxima semana"
+  },
+  {
+    "id": 7,
+    "titulo": "reavaliar o codigo ",
+    "descricao": "atividade da velley",
+    "concluida": false
+  }
+]
